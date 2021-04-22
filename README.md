@@ -10,3 +10,8 @@ This is a PyTorch implementation of the paper 'Deep Learning for Ultrasound Beam
 
 # Installation
 
+Assuming Anaconda with python 3.7, an example for installing this project is as follows:
+``` Bash
+  conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+```
+Then clone 
