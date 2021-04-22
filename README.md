@@ -1,4 +1,4 @@
-# Deep Learning for Ultrasound Beamforming in Flexible Array Transducer
+# Flexible_Array_DNN: Deep Learning for Ultrasound Beamforming in Flexible Array Transducer
 
 ### By Xinyue Huang, Muyinatu Bell, and Kai Ding
 
