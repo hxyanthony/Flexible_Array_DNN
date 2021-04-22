@@ -2,5 +2,7 @@
 
 By Xinyue Huang, Muyinatu Bell, and Kai Ding
 
-This is a PyTorch implementation of the paper 'Deep Learning for Ultrasound Beamforming in Flexible Array Transducer'.
+This is a PyTorch implementation of the paper 'Deep Learning for Ultrasound Beamforming in Flexible Array Transducer' for IEEE TMI Second Special Issue On Machine Learning for Image Reconstructions.
+
+![image](https://github.com/PickleJerry/Flexible_Array_DNN/tree/main/Figure/pipeline.png)
 
