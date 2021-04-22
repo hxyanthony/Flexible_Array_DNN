@@ -12,4 +12,17 @@ Assuming Anaconda with python 3.7, an example for installing this project is as 
 ``` Bash
   conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 ```
-Then clone 
+Then clone or download this repo to local.
+
+# Training
+
+# Dataset
+
+Unfortunately we cannot share the entire training dataset. You can download an example training dataset here, and you are welcome to train the models with your own dataset.
+
+The testing data of CIRS phantom and ABDFAN phantom are included in the testing folder.
+
+# Model Dictionary
+
+All the well-trained models in our apaper are available as follows:
+
