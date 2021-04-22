@@ -26,8 +26,8 @@ The testing data of CIRS phantom and ABDFAN phantom are included in the [testing
 
 All the well-trained models in our apaper are available as follows:
 
- Network      | Dictionary Name     | Link     
- -------- | :-----------:  | :-----------: 
- U-Net     | UNet_dict.pth     | [Model]()  
- Pix2Pix GAN     | Pix2PixGAN_Patch_G_dict.pth     | [Model]()   
- CycleGAN     | CycleGAN_Patch_GA_dict     | [Model](https://drive.google.com/file/d/1cwFMPQitdPT2EnTxUZROVxufx-INyVDO/view?usp=sharing)   
+ Network      | Dictionary Name     | Dictionary Link     
+ :--------: | :-----------:  | :-----------: 
+ U-Net     | UNet_dict.pth     | [U-Net Model](https://drive.google.com/file/d/1bv7Xk95gQmaqFDsrojisjN-aFpo0DajS/view?usp=sharing)  
+ Pix2Pix GAN     | Pix2PixGAN_Patch_G_dict.pth     | [Pix2Pix GAN Model](https://drive.google.com/file/d/1tMqfo0WtQcfH6URfbNAmSYCKVG828kwa/view?usp=sharing)   
+ CycleGAN     | CycleGAN_Patch_GA_dict     | [CycleGAN Model](https://drive.google.com/file/d/1cwFMPQitdPT2EnTxUZROVxufx-INyVDO/view?usp=sharing)   
