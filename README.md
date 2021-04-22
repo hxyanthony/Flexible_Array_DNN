@@ -20,7 +20,7 @@ Read the [training tutorial]() for more details.
 
 # Testing
 
-Download the testing dataset and well-trained model dictionaries, then use the codes in the [testing](https://github.com/PickleJerry/Flexible_Array_DNN/tree/main/testing) folder to test different models and show the results.
+Download the `testing dataset` and `well-trained model dictionaries`, then use the codes in the [testing](https://github.com/PickleJerry/Flexible_Array_DNN/tree/main/testing) folder to test different models and show their results.
 
 # Dataset
 
