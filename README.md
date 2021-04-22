@@ -32,4 +32,5 @@ All the well-trained model dictionaries in our paper are available as follows:
  Pix2Pix GAN     | Pix2PixGAN_Patch_G_dict.pth     | [Pix2Pix GAN Model](https://drive.google.com/file/d/1tMqfo0WtQcfH6URfbNAmSYCKVG828kwa/view?usp=sharing)   
  CycleGAN     | CycleGAN_Patch_GA_dict.pth     | [CycleGAN Model](https://drive.google.com/file/d/1cwFMPQitdPT2EnTxUZROVxufx-INyVDO/view?usp=sharing)   
 
-Download the dictionaries to the same path as the testing codes and load them.
+
+Download the dictionaries to the same path as the testing codes and load them in the corresponding codes.
