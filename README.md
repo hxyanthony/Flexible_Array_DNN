@@ -6,8 +6,6 @@ This is a PyTorch implementation of the paper 'Deep Learning for Ultrasound Beam
 
 ![alt text](https://github.com/PickleJerry/Flexible_Array_DNN/blob/main/figure/pipeline.png)
 
-![alt text](https://github.com/PickleJerry/Flexible_Array_DNN/blob/main/figure/results.png)
-
 # Installation
 
 Assuming Anaconda with python 3.7, an example for installing this project is as follows:
