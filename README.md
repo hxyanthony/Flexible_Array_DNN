@@ -18,7 +18,7 @@ Then clone or download this repo to local.
 
 # Dataset
 
-Unfortunately we cannot share the entire training dataset. You can download an example training dataset here, and you are welcome to train the models with your own dataset.
+Unfortunately we cannot share the entire training dataset. You can download an example training dataset here, and you are welcomed to train the models with your own dataset.
 
 The testing data of CIRS phantom and ABDFAN phantom are included in the [testing](https://github.com/PickleJerry/Flexible_Array_DNN/tree/main/testing) folder.
 
@@ -26,3 +26,10 @@ The testing data of CIRS phantom and ABDFAN phantom are included in the [testing
 
 All the well-trained models in our apaper are available as follows:
 
+ Network      | 第一列     | Model link     
+ -------- | :-----------:  | :-----------: 
+ U-Net     | 第一列     | 第二列  
+ -------- | :-----------:  | :-----------: 
+ Pix2Pix GAN     | 第一列     | 第二列  
+ -------- | :-----------:  | :-----------: 
+ CycleGAN     | 第一列     | 第二列  
