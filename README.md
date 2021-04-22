@@ -1,4 +1,4 @@
-# Flexible_Array_DNN: Deep Learning for Ultrasound Beamforming in Flexible Array Transducer
+# Deep Learning for Ultrasound Beamforming in Flexible Array Transducer
 
 ### By Xinyue Huang, Muyinatu Bell, and Kai Ding
 
@@ -20,7 +20,7 @@ Then clone or download this repo to local.
 
 Unfortunately we cannot share the entire training dataset. You can download an example training dataset here, and you are welcome to train the models with your own dataset.
 
-The testing data of CIRS phantom and ABDFAN phantom are included in the testing folder.
+The testing data of CIRS phantom and ABDFAN phantom are included in the [testing](https://github.com/PickleJerry/Flexible_Array_DNN/tree/main/testing) folder.
 
 # Model Dictionary
 
