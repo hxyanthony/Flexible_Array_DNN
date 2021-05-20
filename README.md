@@ -24,7 +24,7 @@ Download the `testing dataset` and `well-trained model dictionaries`, then use t
 
 # Dataset
 
-Unfortunately we cannot share the entire training dataset, you are welcomed to train the models with your own dataset.
+You are welcomed to train the models with your own dataset.
 
 The testing data of CIRS phantom and ABDFAN phantom are included in the [testing](https://github.com/PickleJerry/Flexible_Array_DNN/tree/main/testing) folder.
 
