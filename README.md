@@ -16,7 +16,7 @@ Then clone or download this repo to local.
 
 # Training
 
-Read the [training tutorial]() for more details.
+Read the [training tutorial](https://github.com/hxyanthony/Flexible_Array_DNN/blob/main/training/TRAINING.md) for more details.
 
 # Testing
 
