@@ -17,3 +17,7 @@ For example, if you are traning the network with **N=1000** RF channel data, col
   Same as the training data, **N** is the amount of training data, **S** is the number of scanlines, **D** is the number of samples in depth dimension.
 
 For example, for the training data mentioned above, the size of target data cube should be: **1000×1×64×256**.
+
+<br>
+
+- Then you can replace the 'data' and 'target' variables in the codes with your data and train the networks.
