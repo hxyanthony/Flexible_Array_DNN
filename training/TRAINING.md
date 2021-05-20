@@ -20,4 +20,6 @@ For example, for the training data mentioned above, the size of target data cube
 
 <br>
 
-- Then you can replace the 'data' and 'target' variables in the codes with your data and train the networks.
+- Then you can replace the `data` and `target` variables in the codes with your training and target data to train the networks.
+
+
