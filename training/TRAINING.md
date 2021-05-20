@@ -2,7 +2,7 @@
 
 The training data should be the stacked raw RF channel data, while the size of the training data cube should be: 
 
-## N×R×S×D
+**N×R×S×D**
 
 ,where N is the amount of training data, R is the number of active receiving elements, S is the number of scanlines, D is the number of samples in depth dimension.
 
