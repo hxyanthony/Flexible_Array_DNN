@@ -1,8 +1,12 @@
 # Training Tutorial
 
-The size of training data cube should be: N*R*S*D
+The training data should be the stacked raw RF channel data, while the size of the training data cube should be: 
 
-where N is the number of training data, R is the number of active receive elements, S is the number of scanlines, D is the number of samples in depth dimension.
+## N×R×S×D
+
+,where N is the amount of training data, R is the number of active receiving elements, S is the number of scanlines, D is the number of samples in depth dimension.
+
+For example, if you are traning the network with 1000 RF channel data collected the training data with a transducer with 128 receiving elements
 
 
 
