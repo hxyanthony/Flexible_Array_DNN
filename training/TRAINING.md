@@ -8,7 +8,7 @@
 
 For example, if you are traning the network with **N=1000** RF channel data, collected from transducer with **R=128** receiving elements and **S=64** scanlines, the size of input training data cube should be: **1000×128×64×256**, as the depth dimension is always resized to **D=256** samples.
 
-
+<br>
 
 - The target label data should be the corresponding stacked B-mode images, the size of target data cube should be: 
 
